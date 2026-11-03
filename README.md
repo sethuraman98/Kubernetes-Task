@@ -71,7 +71,7 @@ kubectl get namespaces
 Created a custom namespace named `dev-namespace`.
 
 ```bash
-kubectl create namespace dev-namespace
+kubectl create namespace dev1
 ```
 
 ### 6. Verify Namespace
@@ -83,13 +83,13 @@ kubectl get namespaces
 ### 7. Describe Namespace
 
 ```bash
-kubectl describe namespace dev-namespace
+kubectl describe namespace dev1
 ```
 
 ### 8. Delete Namespace
 
 ```bash
-kubectl delete namespace dev-namespace
+kubectl delete namespace dev1
 ```
 
 ## 📸 Screenshots
