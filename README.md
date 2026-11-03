@@ -68,7 +68,7 @@ kubectl get namespaces
 
 ### 5. Create a New Namespace
 
-Created a custom namespace named `dev-namespace`.
+Created a custom namespace named `dev1`.
 
 ```bash
 kubectl create namespace dev1
