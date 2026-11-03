@@ -94,33 +94,8 @@ kubectl delete namespace dev-namespace
 
 ## 📸 Screenshots
 
-### Minikube Cluster
+All screenshots are available inside the screenshots folder.
 
-![Minikube Cluster](screenshots/minikube-start.png)
-
-### Kubernetes Nodes
-
-![Kubernetes Nodes](screenshots/kubectl-get-nodes.png)
-
-### Existing Namespaces
-
-![Namespaces](screenshots/kubectl-get-namespaces.png)
-
-### Namespace Creation
-
-![Namespace Creation](screenshots/namespace-create.png)
-
-### Namespace Verification
-
-![Namespace Verification](screenshots/namespace-verify.png)
-
-### Namespace Description
-
-![Namespace Description](screenshots/namespace-describe.png)
-
-### Namespace Deletion
-
-![Namespace Deletion](screenshots/namespace-delete.png)
 
 ## 📂 Project Structure
 
