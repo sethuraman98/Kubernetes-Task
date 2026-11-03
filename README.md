@@ -1,25 +1,22 @@
-# Kubernetes-Task
-
+Kubernetes Namespace Task
 Tools Used
-Docker
-Minikube
-kubectl
-Windows 11
-WSL
-Vs code
-
+•	Docker
+•	Minikube
+•	kubectl
+•	Windows 11
+•	WSL
+•	VS code
 Steps Performed
-Started Minikube
-Verified Cluster
-Listed Nodes
-Viewed Existing Namespaces
-Created Namespace
-Verified Namespace
-Described Namespace
-Deleted Namespace
-
+1.	Started Minikube
+2.	Verified Cluster
+3.	Listed Nodes
+4.	Viewed Existing Namespaces
+5.	Created Namespace
+6.	Verified Namespace
+7.	Described Namespace
+8.	Deleted Namespace
 Commands
 See commands.txt
-
 Screenshots
 All screenshots are available inside the screenshots folder.
+
